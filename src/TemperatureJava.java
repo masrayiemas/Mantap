@@ -24,6 +24,7 @@ public class TemperatureJava {
             System.out.println("4. Dari Kelvin");
             System.out.println("4. Dari Kelvin");
             System.out.println("4. Dari BkD3vil5DO");
+            System.out.println("4. Dari COAO");
             Scanner pilih = new Scanner(System.in);
             System.out.println("Pilih :");
             int pil = pilih.nextInt();
