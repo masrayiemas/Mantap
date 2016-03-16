@@ -23,7 +23,7 @@ public class TemperatureJava {
             System.out.println("Temperature Converter");
             System.out.println("4. Dari Kelvin");
             System.out.println("4. Dari Kelvin");
-            System.out.println("4. Dari BlackD3vil5");
+            System.out.println("4. Dari BkD3vil5");
             System.out.println("4. Dari Ray4");
             Scanner pilih = new Scanner(System.in);
             System.out.println("Pilih :");
