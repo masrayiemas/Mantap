@@ -21,9 +21,6 @@ public class TemperatureJava {
         double cel, rea, fah, kel;
         while (ulang == 1) {
             System.out.println("Temperature Converter");
-            System.out.println("1. Dari Celcius");
-            System.out.println("2. Dari Reamur");
-            System.out.println("3. Dari Fahrenheit");
             System.out.println("4. Dari Kelvin");
             Scanner pilih = new Scanner(System.in);
             System.out.println("Pilih :");
