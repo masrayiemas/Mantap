@@ -22,6 +22,9 @@ public class TemperatureJava {
         while (ulang == 1) {
             System.out.println("Temperature Converter");
             System.out.println("4. Dari Kelvin");
+            System.out.println("4. Dari Kelvin");
+            System.out.println("4. Dari Kelvin");
+            System.out.println("4. Dari Kelvin");
             Scanner pilih = new Scanner(System.in);
             System.out.println("Pilih :");
             int pil = pilih.nextInt();
